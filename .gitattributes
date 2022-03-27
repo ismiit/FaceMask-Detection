@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/91700/Desktop/recognize_family/mask_detector.model filter=lfs diff=lfs merge=lfs -text
+mask_detector.model filter=lfs diff=lfs merge=lfs -text
+vgg_mask_detector.model filter=lfs diff=lfs merge=lfs -text
